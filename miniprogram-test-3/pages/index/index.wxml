@@ -1,0 +1,17 @@
+<!--index.wxml-->
+<view class="container">
+<!--<button class="minor-third">.3</button>-->
+<audio id='myaudio'></audio>
+<button class="minor-second" bindtap="minor-second">.2</button>
+<button class="minor-first" bindtap="minor-first">.1</button>
+<button class="first"  bindtap="first">1</button>
+<button class="second" bindtap="second" >2</button>
+<button class="third" bindtap="third">3</button>
+<button class="fourth" bindtap="fourth">4</button>
+<button class="fifth" bindtap="fifth">5</button>
+<button class="sixth" bindtap="sixth">6</button>
+<button class="seventh" bindtap="seventh">7</button>
+<button class="major-first" bindtap="eighth">1.</button>
+<!--<button class="major-second">2.</button>-->
+<!--<button class="major-third">3.</button>-->
+</view>
